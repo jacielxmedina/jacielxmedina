@@ -1,0 +1,21 @@
+import Foundation
+
+
+//comentarios con dos diagonales
+*/
+comentarios con varias lineas
+*/
+
+//variables
+//ojo vamos a usar estandar camel para nombrarlas
+//en swift usamos VAR para declarar variables
+
+var myFirstwork = "hola cbtis202"
+
+//
+print(myFirstwork)
+//constantes se definen con la palabra reservada LET y el nombre de la constante
+let idInternational = "+52"
+print(idInternational)
+
+//idInternational = 55

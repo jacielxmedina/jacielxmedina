@@ -1,0 +1,27 @@
+import Foundation
+
+
+//Tipos de datos
+
+var myString = "las cadenas van entre comillas"
+//No se pueden cambiar de tipo de datos 
+//Tipado
+var myString : String = "Declaracion con tipado"
+
+print(myString)
+print(myString2)
+
+//Enteros
+
+var myInt = 77
+var myInt2 : Int  = 14
+print(myInt)
+print(myInt2)
+
+//Dobles
+var myDoble  = 3.1459
+
+
+//Float
+//Este si se tiene que tipar
+var myFloat : Float = 9.81
